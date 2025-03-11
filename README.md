@@ -96,4 +96,21 @@ By aligning pricing strategies with segment-specific behaviors, the company can 
 
 
 
+# Part 2 : Build a Dynamic Pricing System
+
+Goal: Build a dynamic pricing system that adjusts prices for customer segments while balancing revenue and satisfaction.
+Key Steps:
+
+✔Synthetic Data Generation
+
+✔Customer Segmentation
+
+✔Demand Forecasting & Price Elasticity Modeling
+
+✔Price Optimization
+
+✔A/B Testing Simulation
+
+
+
 
