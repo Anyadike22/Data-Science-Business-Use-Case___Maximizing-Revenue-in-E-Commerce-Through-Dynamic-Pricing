@@ -74,3 +74,8 @@ Avoid discriminatory pricing (e.g., based on sensitive attributes).
 Ensure transparency: Inform users about personalized pricing in terms of service.
 
 
+## Example Result Analysis 
+
+![Alt text](sample.png)
+
+
