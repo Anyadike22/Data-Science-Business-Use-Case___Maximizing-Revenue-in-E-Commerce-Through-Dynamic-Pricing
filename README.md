@@ -78,4 +78,22 @@ Ensure transparency: Inform users about personalized pricing in terms of service
 
 ![Alt text](sample.png)
 
+# Insights:
+
+## Deal-seekers reacted negatively to non-promotional prices; limit dynamic pricing to targeted promotions.
+
+## Loyal customers valued personalized discounts, improving retention.
+
+## Next Steps
+
+## Refine Algorithms: Incorporate satisfaction metrics into pricing models (e.g., avoid raising prices for loyal users).
+
+👍 Scale Gradually: Roll out dynamic pricing to high-performing segments first.
+
+👍 Long-Term Monitoring: Track customer lifetime value (CLV) to ensure no attrition.
+
+By aligning pricing strategies with segment-specific behaviors, the company can maximize revenue while maintaining trust and satisfaction.
+
+
+
 
