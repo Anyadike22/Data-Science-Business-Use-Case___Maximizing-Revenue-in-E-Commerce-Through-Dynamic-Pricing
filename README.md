@@ -294,6 +294,7 @@ t_stat, p_value = stats.ttest_ind(test_revenue, control_revenue)
 print(f"Test Revenue Mean: {test_revenue.mean():.2f}")
 print(f"Control Revenue Mean: {control_revenue.mean():.2f}")
 print(f"P-value: {p_value:.4f}")  # Significant if p < 0.05
+```
 
 """# Key Findings:
 
@@ -303,6 +304,7 @@ print(f"P-value: {p_value:.4f}")  # Significant if p < 0.05
 
 ✔Premium shoppers tolerated price increases when competitor prices rose.
 """
+
 
 
 
